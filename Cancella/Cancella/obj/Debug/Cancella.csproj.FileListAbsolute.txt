@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\bin\Debug\Cancella.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\bin\Debug\Cancella.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\bin\Debug\Cancella.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\obj\Debug\Cancella.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\obj\Debug\Cancella.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\obj\Debug\Cancella.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\obj\Debug\Cancella.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Cancella\Cancella\obj\Debug\Cancella.pdb

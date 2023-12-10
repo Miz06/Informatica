@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\bin\Debug\SpaziBianchi.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\bin\Debug\SpaziBianchi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\bin\Debug\SpaziBianchi.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\obj\Debug\SpaziBianchi.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\obj\Debug\SpaziBianchi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\obj\Debug\SpaziBianchi.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\obj\Debug\SpaziBianchi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\SpaziBianchi\SpaziBianchi\obj\Debug\SpaziBianchi.pdb

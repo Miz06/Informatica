@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\bin\Debug\preverifica.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\bin\Debug\preverifica.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\bin\Debug\preverifica.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\obj\Debug\preverifica.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\obj\Debug\preverifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\obj\Debug\preverifica.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\obj\Debug\preverifica.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\preverifica\preverifica\obj\Debug\preverifica.pdb

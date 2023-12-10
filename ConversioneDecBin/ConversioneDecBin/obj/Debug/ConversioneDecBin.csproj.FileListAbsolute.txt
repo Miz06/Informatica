@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\obj\Debug\ConversioneDecBin.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\obj\Debug\ConversioneDecBin.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\obj\Debug\ConversioneDecBin.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\bin\Debug\ConversioneDecBin.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\bin\Debug\ConversioneDecBin.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\bin\Debug\ConversioneDecBin.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\obj\Debug\ConversioneDecBin.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneDecBin\ConversioneDecBin\obj\Debug\ConversioneDecBin.pdb

@@ -1,0 +1,15 @@
+E:\3E informatica\Alessandro Mizzon\MorraCinese\bin\Debug\MorraCinese.exe.config
+E:\3E informatica\Alessandro Mizzon\MorraCinese\bin\Debug\MorraCinese.exe
+E:\3E informatica\Alessandro Mizzon\MorraCinese\bin\Debug\MorraCinese.pdb
+E:\3E informatica\Alessandro Mizzon\MorraCinese\obj\Debug\MorraCinese.csproj.AssemblyReference.cache
+E:\3E informatica\Alessandro Mizzon\MorraCinese\obj\Debug\MorraCinese.csproj.CoreCompileInputs.cache
+E:\3E informatica\Alessandro Mizzon\MorraCinese\obj\Debug\MorraCinese.exe
+E:\3E informatica\Alessandro Mizzon\MorraCinese\obj\Debug\MorraCinese.pdb
+C:\Users\aless\OneDrive\Desktop\MorraCinese\bin\Debug\MorraCinese.exe.config
+C:\Users\aless\OneDrive\Desktop\MorraCinese\bin\Debug\MorraCinese.exe
+C:\Users\aless\OneDrive\Desktop\MorraCinese\bin\Debug\MorraCinese.pdb
+C:\Users\aless\OneDrive\Desktop\MorraCinese\obj\Debug\MorraCinese.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\MorraCinese\obj\Debug\MorraCinese.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\MorraCinese\obj\Debug\MorraCinese.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\MorraCinese\obj\Debug\MorraCinese.exe
+C:\Users\aless\OneDrive\Desktop\MorraCinese\obj\Debug\MorraCinese.pdb

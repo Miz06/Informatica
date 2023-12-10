@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\bin\Debug\Decimale_to_hex.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\bin\Debug\Decimale_to_hex.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\bin\Debug\Decimale_to_hex.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\obj\Debug\Decimale_to_hex.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\obj\Debug\Decimale_to_hex.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\obj\Debug\Decimale_to_hex.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\obj\Debug\Decimale_to_hex.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Decimale_to_hex\Decimale_to_hex\obj\Debug\Decimale_to_hex.pdb

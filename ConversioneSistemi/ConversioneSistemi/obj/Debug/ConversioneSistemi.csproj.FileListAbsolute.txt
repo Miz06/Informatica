@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\bin\Debug\ConversioneSistemi.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\bin\Debug\ConversioneSistemi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\bin\Debug\ConversioneSistemi.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\obj\Debug\ConversioneSistemi.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\obj\Debug\ConversioneSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\obj\Debug\ConversioneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\obj\Debug\ConversioneSistemi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneSistemi\ConversioneSistemi\obj\Debug\ConversioneSistemi.pdb

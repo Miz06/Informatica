@@ -1,0 +1,23 @@
+E:\3E informatica\Alessandro Mizzon\Vinaio_VS\bin\Debug\Vinaio_VS.exe.config
+E:\3E informatica\Alessandro Mizzon\Vinaio_VS\bin\Debug\Vinaio_VS.exe
+E:\3E informatica\Alessandro Mizzon\Vinaio_VS\bin\Debug\Vinaio_VS.pdb
+E:\3E informatica\Alessandro Mizzon\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.AssemblyReference.cache
+E:\3E informatica\Alessandro Mizzon\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.CoreCompileInputs.cache
+E:\3E informatica\Alessandro Mizzon\Vinaio_VS\obj\Debug\Vinaio_VS.exe
+E:\3E informatica\Alessandro Mizzon\Vinaio_VS\obj\Debug\Vinaio_VS.pdb
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\bin\Debug\Vinaio_VS.exe.config
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\bin\Debug\Vinaio_VS.exe
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\bin\Debug\Vinaio_VS.pdb
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\obj\Debug\Vinaio_VS.exe
+C:\Users\aless\OneDrive\Desktop\Vinaio_VS-20230109T174143Z-001\Vinaio_VS\obj\Debug\Vinaio_VS.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\bin\Debug\Vinaio_VS.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\bin\Debug\Vinaio_VS.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\bin\Debug\Vinaio_VS.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\obj\Debug\Vinaio_VS.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\obj\Debug\Vinaio_VS.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Vinaio_VS\obj\Debug\Vinaio_VS.pdb

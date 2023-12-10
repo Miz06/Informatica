@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\bin\Debug\RuotaVenezianaCompletaConMetodi.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\bin\Debug\RuotaVenezianaCompletaConMetodi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\bin\Debug\RuotaVenezianaCompletaConMetodi.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\obj\Debug\RuotaVenezianaCompletaConMetodi.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\obj\Debug\RuotaVenezianaCompletaConMetodi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\obj\Debug\RuotaVenezianaCompletaConMetodi.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\obj\Debug\RuotaVenezianaCompletaConMetodi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuotaVenezianaCompletaConMetodi\RuotaVenezianaCompletaConMetodi\obj\Debug\RuotaVenezianaCompletaConMetodi.pdb

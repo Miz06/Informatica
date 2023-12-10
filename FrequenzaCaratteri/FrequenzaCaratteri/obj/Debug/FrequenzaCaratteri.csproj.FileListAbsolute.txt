@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\bin\Debug\FrequenzaCaratteri.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\bin\Debug\FrequenzaCaratteri.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\bin\Debug\FrequenzaCaratteri.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\obj\Debug\FrequenzaCaratteri.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\obj\Debug\FrequenzaCaratteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\obj\Debug\FrequenzaCaratteri.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\obj\Debug\FrequenzaCaratteri.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\FrequenzaCaratteri\FrequenzaCaratteri\obj\Debug\FrequenzaCaratteri.pdb

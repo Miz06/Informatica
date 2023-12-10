@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\bin\Debug\Esercizio1pg190.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\bin\Debug\Esercizio1pg190.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\bin\Debug\Esercizio1pg190.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\obj\Debug\Esercizio1pg190.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\obj\Debug\Esercizio1pg190.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\obj\Debug\Esercizio1pg190.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\obj\Debug\Esercizio1pg190.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio1pg190\Esercizio1pg190\obj\Debug\Esercizio1pg190.pdb

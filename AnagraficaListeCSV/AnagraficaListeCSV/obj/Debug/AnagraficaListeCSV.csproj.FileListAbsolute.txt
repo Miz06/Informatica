@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\obj\Debug\AnagraficaListeCSV.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\obj\Debug\AnagraficaListeCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\obj\Debug\AnagraficaListeCSV.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\bin\Debug\AnagraficaListeCSV.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\bin\Debug\AnagraficaListeCSV.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\bin\Debug\AnagraficaListeCSV.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\obj\Debug\AnagraficaListeCSV.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaListeCSV\AnagraficaListeCSV\obj\Debug\AnagraficaListeCSV.pdb

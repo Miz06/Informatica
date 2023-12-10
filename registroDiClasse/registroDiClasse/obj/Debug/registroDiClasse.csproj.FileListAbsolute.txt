@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\bin\Debug\registroDiClasse.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\bin\Debug\registroDiClasse.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\bin\Debug\registroDiClasse.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\obj\Debug\registroDiClasse.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\obj\Debug\registroDiClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\obj\Debug\registroDiClasse.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\obj\Debug\registroDiClasse.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\registroDiClasse\registroDiClasse\obj\Debug\registroDiClasse.pdb

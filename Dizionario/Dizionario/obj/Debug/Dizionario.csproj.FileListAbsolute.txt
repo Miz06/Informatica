@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\bin\Debug\Dizionario.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\bin\Debug\Dizionario.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\bin\Debug\Dizionario.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\obj\Debug\Dizionario.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\obj\Debug\Dizionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\obj\Debug\Dizionario.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\obj\Debug\Dizionario.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dizionario\Dizionario\obj\Debug\Dizionario.pdb

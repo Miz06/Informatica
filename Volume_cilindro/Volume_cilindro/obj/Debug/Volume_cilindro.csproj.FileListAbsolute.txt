@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\obj\Debug\Volume_cilindro.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\obj\Debug\Volume_cilindro.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\obj\Debug\Volume_cilindro.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\bin\Debug\Volume_cilindro.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\bin\Debug\Volume_cilindro.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\bin\Debug\Volume_cilindro.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\obj\Debug\Volume_cilindro.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Volume_cilindro\Volume_cilindro\obj\Debug\Volume_cilindro.pdb

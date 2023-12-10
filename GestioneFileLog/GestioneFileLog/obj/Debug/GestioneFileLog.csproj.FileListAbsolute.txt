@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\bin\Debug\GestioneFileLog.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\bin\Debug\GestioneFileLog.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\bin\Debug\GestioneFileLog.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\obj\Debug\GestioneFileLog.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\obj\Debug\GestioneFileLog.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\obj\Debug\GestioneFileLog.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\obj\Debug\GestioneFileLog.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneFileLog\GestioneFileLog\obj\Debug\GestioneFileLog.pdb

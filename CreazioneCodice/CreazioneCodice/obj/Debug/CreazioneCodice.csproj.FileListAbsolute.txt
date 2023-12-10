@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\bin\Debug\CreazioneCodice.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\bin\Debug\CreazioneCodice.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\bin\Debug\CreazioneCodice.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\obj\Debug\CreazioneCodice.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\obj\Debug\CreazioneCodice.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\obj\Debug\CreazioneCodice.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\obj\Debug\CreazioneCodice.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CreazioneCodice\CreazioneCodice\obj\Debug\CreazioneCodice.pdb

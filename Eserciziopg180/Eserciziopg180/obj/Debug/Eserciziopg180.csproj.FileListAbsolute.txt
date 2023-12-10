@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\bin\Debug\Eserciziopg180.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\bin\Debug\Eserciziopg180.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\bin\Debug\Eserciziopg180.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\obj\Debug\Eserciziopg180.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\obj\Debug\Eserciziopg180.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\obj\Debug\Eserciziopg180.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\obj\Debug\Eserciziopg180.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Eserciziopg180\Eserciziopg180\obj\Debug\Eserciziopg180.pdb

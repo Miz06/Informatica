@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\bin\Debug\Conversione_decimale_binario.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\bin\Debug\Conversione_decimale_binario.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\bin\Debug\Conversione_decimale_binario.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\obj\Debug\Conversione_decimale_binario.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\obj\Debug\Conversione_decimale_binario.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\obj\Debug\Conversione_decimale_binario.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\obj\Debug\Conversione_decimale_binario.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Conversione_decimale_binario\Conversione_decimale_binario\obj\Debug\Conversione_decimale_binario.pdb

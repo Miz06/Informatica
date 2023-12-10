@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\bin\Debug\laScuolaElementare.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\bin\Debug\laScuolaElementare.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\bin\Debug\laScuolaElementare.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\obj\Debug\laScuolaElementare.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\obj\Debug\laScuolaElementare.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\obj\Debug\laScuolaElementare.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\obj\Debug\laScuolaElementare.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\laScuolaElementare\laScuolaElementare\obj\Debug\laScuolaElementare.pdb

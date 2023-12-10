@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barbin", "barbin\barbin.csproj", "{3BE76A4E-DC1C-43CA-AECC-FA8DBE55E276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE76A4E-DC1C-43CA-AECC-FA8DBE55E276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE76A4E-DC1C-43CA-AECC-FA8DBE55E276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE76A4E-DC1C-43CA-AECC-FA8DBE55E276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE76A4E-DC1C-43CA-AECC-FA8DBE55E276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47094367-CCF9-4740-BD5B-BDD14F00A64D}
+	EndGlobalSection
+EndGlobal

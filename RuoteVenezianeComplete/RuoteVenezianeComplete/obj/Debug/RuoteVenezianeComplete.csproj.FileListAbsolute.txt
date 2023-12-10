@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\bin\Debug\RuoteVenezianeComplete.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\bin\Debug\RuoteVenezianeComplete.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\bin\Debug\RuoteVenezianeComplete.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\obj\Debug\RuoteVenezianeComplete.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\obj\Debug\RuoteVenezianeComplete.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\obj\Debug\RuoteVenezianeComplete.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\obj\Debug\RuoteVenezianeComplete.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RuoteVenezianeComplete\RuoteVenezianeComplete\obj\Debug\RuoteVenezianeComplete.pdb

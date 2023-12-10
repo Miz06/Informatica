@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\bin\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\bin\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\bin\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\obj\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\obj\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\obj\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\obj\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Metodi_GGMMAAAA,GGMMAAAASTR\Metodi_GGMMAAAA,GGMMAAAASTR\obj\Debug\Metodi_GGMMAAAA,GGMMAAAASTR.pdb

@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\bin\Debug\Esercizio_2_ripasso.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\bin\Debug\Esercizio_2_ripasso.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\bin\Debug\Esercizio_2_ripasso.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\obj\Debug\Esercizio_2_ripasso.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\obj\Debug\Esercizio_2_ripasso.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\obj\Debug\Esercizio_2_ripasso.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\obj\Debug\Esercizio_2_ripasso.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_2_ripasso\Esercizio_2_ripasso\obj\Debug\Esercizio_2_ripasso.pdb

@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\bin\Debug\Paint2.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\bin\Debug\Paint2.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\bin\Debug\Paint2.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\obj\Debug\Paint2.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\obj\Debug\Paint2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\obj\Debug\Paint2.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\obj\Debug\Paint2.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Paint2\Paint2\obj\Debug\Paint2.pdb

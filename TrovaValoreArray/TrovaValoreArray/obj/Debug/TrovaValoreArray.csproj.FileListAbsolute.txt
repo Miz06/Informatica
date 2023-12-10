@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\obj\Debug\TrovaValoreArray.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\obj\Debug\TrovaValoreArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\obj\Debug\TrovaValoreArray.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\bin\Debug\TrovaValoreArray.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\bin\Debug\TrovaValoreArray.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\bin\Debug\TrovaValoreArray.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\obj\Debug\TrovaValoreArray.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\TrovaValoreArray\TrovaValoreArray\obj\Debug\TrovaValoreArray.pdb

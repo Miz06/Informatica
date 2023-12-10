@@ -1,0 +1,15 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\bin\Debug\Esercizio_15.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\bin\Debug\Esercizio_15.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\bin\Debug\Esercizio_15.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.pdb
+C:\Users\Studente\Desktop\Esercizio_15\Esercizio_15\bin\Debug\Esercizio_15.exe.config
+C:\Users\Studente\Desktop\Esercizio_15\Esercizio_15\bin\Debug\Esercizio_15.exe
+C:\Users\Studente\Desktop\Esercizio_15\Esercizio_15\bin\Debug\Esercizio_15.pdb
+C:\Users\Studente\Desktop\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.exe
+C:\Users\Studente\Desktop\Esercizio_15\Esercizio_15\obj\Debug\Esercizio_15.pdb

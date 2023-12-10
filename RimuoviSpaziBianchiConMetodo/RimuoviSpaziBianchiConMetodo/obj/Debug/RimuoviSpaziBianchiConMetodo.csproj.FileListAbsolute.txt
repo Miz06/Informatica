@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\bin\Debug\RimuoviSpaziBianchiConMetodo.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\bin\Debug\RimuoviSpaziBianchiConMetodo.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\bin\Debug\RimuoviSpaziBianchiConMetodo.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\obj\Debug\RimuoviSpaziBianchiConMetodo.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\obj\Debug\RimuoviSpaziBianchiConMetodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\obj\Debug\RimuoviSpaziBianchiConMetodo.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\obj\Debug\RimuoviSpaziBianchiConMetodo.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\RimuoviSpaziBianchiConMetodo\RimuoviSpaziBianchiConMetodo\obj\Debug\RimuoviSpaziBianchiConMetodo.pdb

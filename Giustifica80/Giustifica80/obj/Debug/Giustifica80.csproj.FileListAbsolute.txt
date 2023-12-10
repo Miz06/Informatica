@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\bin\Debug\Giustifica80.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\bin\Debug\Giustifica80.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\bin\Debug\Giustifica80.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\obj\Debug\Giustifica80.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\obj\Debug\Giustifica80.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\obj\Debug\Giustifica80.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\obj\Debug\Giustifica80.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Giustifica80\Giustifica80\obj\Debug\Giustifica80.pdb

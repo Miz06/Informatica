@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\EsercitazioneVerifica.exe.config
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\EsercitazioneVerifica.exe
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\bin\Debug\EsercitazioneVerifica.pdb
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\EsercitazioneVerifica.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\EsercitazioneVerifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\EsercitazioneVerifica.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\EsercitazioneVerifica.exe
+C:\Users\aless\OneDrive\Desktop\EsercitazioneVerifica\EsercitazioneVerifica\obj\Debug\EsercitazioneVerifica.pdb

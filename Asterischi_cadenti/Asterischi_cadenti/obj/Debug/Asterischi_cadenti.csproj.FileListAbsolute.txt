@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\bin\Debug\Asterischi_cadenti.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\bin\Debug\Asterischi_cadenti.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\bin\Debug\Asterischi_cadenti.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\obj\Debug\Asterischi_cadenti.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\obj\Debug\Asterischi_cadenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\obj\Debug\Asterischi_cadenti.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\obj\Debug\Asterischi_cadenti.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Asterischi_cadenti\Asterischi_cadenti\obj\Debug\Asterischi_cadenti.pdb

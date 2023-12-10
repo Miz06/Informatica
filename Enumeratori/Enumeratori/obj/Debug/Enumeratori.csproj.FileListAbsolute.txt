@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\bin\Debug\Enumeratori.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\bin\Debug\Enumeratori.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\bin\Debug\Enumeratori.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\obj\Debug\Enumeratori.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\obj\Debug\Enumeratori.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\obj\Debug\Enumeratori.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\obj\Debug\Enumeratori.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Enumeratori\Enumeratori\obj\Debug\Enumeratori.pdb

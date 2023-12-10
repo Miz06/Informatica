@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\bin\Debug\PostVerficaCsvMetodi.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\bin\Debug\PostVerficaCsvMetodi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\bin\Debug\PostVerficaCsvMetodi.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\obj\Debug\PostVerficaCsvMetodi.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\obj\Debug\PostVerficaCsvMetodi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\obj\Debug\PostVerficaCsvMetodi.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\obj\Debug\PostVerficaCsvMetodi.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\PostVerficaCsvMetodi\PostVerficaCsvMetodi\obj\Debug\PostVerficaCsvMetodi.pdb

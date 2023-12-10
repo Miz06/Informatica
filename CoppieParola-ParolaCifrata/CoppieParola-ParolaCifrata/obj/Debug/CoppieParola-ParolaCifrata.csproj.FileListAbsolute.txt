@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\bin\Debug\CoppieParola-ParolaCifrata.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\bin\Debug\CoppieParola-ParolaCifrata.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\bin\Debug\CoppieParola-ParolaCifrata.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\obj\Debug\CoppieParola-ParolaCifrata.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\obj\Debug\CoppieParola-ParolaCifrata.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\obj\Debug\CoppieParola-ParolaCifrata.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\obj\Debug\CoppieParola-ParolaCifrata.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\CoppieParola-ParolaCifrata\CoppieParola-ParolaCifrata\obj\Debug\CoppieParola-ParolaCifrata.pdb

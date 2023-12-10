@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\bin\Debug\GeneraTarga.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\bin\Debug\GeneraTarga.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\bin\Debug\GeneraTarga.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\obj\Debug\GeneraTarga.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\obj\Debug\GeneraTarga.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\obj\Debug\GeneraTarga.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\obj\Debug\GeneraTarga.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GeneraTarga\GeneraTarga\obj\Debug\GeneraTarga.pdb

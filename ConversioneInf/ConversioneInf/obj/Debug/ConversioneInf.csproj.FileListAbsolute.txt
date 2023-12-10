@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\bin\Debug\ConversioneInf.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\bin\Debug\ConversioneInf.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\bin\Debug\ConversioneInf.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\obj\Debug\ConversioneInf.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\obj\Debug\ConversioneInf.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\obj\Debug\ConversioneInf.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\obj\Debug\ConversioneInf.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\ConversioneInf\ConversioneInf\obj\Debug\ConversioneInf.pdb

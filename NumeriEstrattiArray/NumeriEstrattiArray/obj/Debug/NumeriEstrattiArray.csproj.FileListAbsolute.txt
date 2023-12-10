@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\bin\Debug\NumeriEstrattiArray.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\bin\Debug\NumeriEstrattiArray.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\bin\Debug\NumeriEstrattiArray.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\obj\Debug\NumeriEstrattiArray.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\obj\Debug\NumeriEstrattiArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\obj\Debug\NumeriEstrattiArray.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\obj\Debug\NumeriEstrattiArray.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\NumeriEstrattiArray\NumeriEstrattiArray\obj\Debug\NumeriEstrattiArray.pdb

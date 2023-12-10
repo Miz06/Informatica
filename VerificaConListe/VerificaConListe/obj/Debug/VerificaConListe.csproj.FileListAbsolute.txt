@@ -1,0 +1,16 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\bin\Debug\VerificaConListe.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\bin\Debug\VerificaConListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\bin\Debug\VerificaConListe.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\bin\Debug\VerificaConListe.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\bin\Debug\VerificaConListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\bin\Debug\VerificaConListe.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\VerificaConListe\VerificaConListe\obj\Debug\VerificaConListe.pdb

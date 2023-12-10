@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\bin\Debug\GestioneConStato.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\bin\Debug\GestioneConStato.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\bin\Debug\GestioneConStato.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\obj\Debug\GestioneConStato.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\obj\Debug\GestioneConStato.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\obj\Debug\GestioneConStato.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\obj\Debug\GestioneConStato.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneConStato\GestioneConStato\obj\Debug\GestioneConStato.pdb

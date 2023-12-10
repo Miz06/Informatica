@@ -1,0 +1,16 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\bin\Debug\GestioneAnagraficaListe.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\bin\Debug\GestioneAnagraficaListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\bin\Debug\GestioneAnagraficaListe.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\bin\Debug\GestioneAnagraficaListe.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\bin\Debug\GestioneAnagraficaListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\bin\Debug\GestioneAnagraficaListe.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\Visual_studio\GestioneAnagraficaListe\GestioneAnagraficaListe\obj\Debug\GestioneAnagraficaListe.pdb

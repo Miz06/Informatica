@@ -1,0 +1,15 @@
+E:\3E informatica\Alessandro Mizzon\DecimaleToHexArray\bin\Debug\DecimaleToHexArray.exe.config
+E:\3E informatica\Alessandro Mizzon\DecimaleToHexArray\bin\Debug\DecimaleToHexArray.exe
+E:\3E informatica\Alessandro Mizzon\DecimaleToHexArray\bin\Debug\DecimaleToHexArray.pdb
+E:\3E informatica\Alessandro Mizzon\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.csproj.AssemblyReference.cache
+E:\3E informatica\Alessandro Mizzon\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.csproj.CoreCompileInputs.cache
+E:\3E informatica\Alessandro Mizzon\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.exe
+E:\3E informatica\Alessandro Mizzon\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.pdb
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\bin\Debug\DecimaleToHexArray.exe.config
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\bin\Debug\DecimaleToHexArray.exe
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\bin\Debug\DecimaleToHexArray.pdb
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.exe
+C:\Users\aless\OneDrive\Desktop\DecimaleToHexArray\obj\Debug\DecimaleToHexArray.pdb

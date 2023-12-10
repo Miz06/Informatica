@@ -1,0 +1,45 @@
+E:\3E informatica\Alessandro Mizzon\Dado\bin\Debug\Dado.exe.config
+E:\3E informatica\Alessandro Mizzon\Dado\bin\Debug\Dado.exe
+E:\3E informatica\Alessandro Mizzon\Dado\bin\Debug\Dado.pdb
+E:\3E informatica\Alessandro Mizzon\Dado\obj\Debug\Dado.csproj.AssemblyReference.cache
+E:\3E informatica\Alessandro Mizzon\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+E:\3E informatica\Alessandro Mizzon\Dado\obj\Debug\Dado.exe
+E:\3E informatica\Alessandro Mizzon\Dado\obj\Debug\Dado.pdb
+C:\Users\aless\OneDrive\Desktop\Dado\bin\Debug\Dado.exe.config
+C:\Users\aless\OneDrive\Desktop\Dado\bin\Debug\Dado.exe
+C:\Users\aless\OneDrive\Desktop\Dado\bin\Debug\Dado.pdb
+C:\Users\aless\OneDrive\Desktop\Dado\obj\Debug\Dado.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\Dado\obj\Debug\Dado.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\Dado\obj\Debug\Dado.exe
+C:\Users\aless\OneDrive\Desktop\Dado\obj\Debug\Dado.pdb
+C:\Users\Studente\Desktop\Dado(2)\bin\Debug\Dado.exe.config
+C:\Users\Studente\Desktop\Dado(2)\bin\Debug\Dado.exe
+C:\Users\Studente\Desktop\Dado(2)\bin\Debug\Dado.pdb
+C:\Users\Studente\Desktop\Dado(2)\obj\Debug\Dado.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Dado(2)\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Dado(2)\obj\Debug\Dado.exe
+C:\Users\Studente\Desktop\Dado(2)\obj\Debug\Dado.pdb
+E:\3E informatica\Alessandro Mizzon\Dado(2)\bin\Debug\Dado.exe.config
+E:\3E informatica\Alessandro Mizzon\Dado(2)\bin\Debug\Dado.exe
+E:\3E informatica\Alessandro Mizzon\Dado(2)\bin\Debug\Dado.pdb
+E:\3E informatica\Alessandro Mizzon\Dado(2)\obj\Debug\Dado.csproj.AssemblyReference.cache
+E:\3E informatica\Alessandro Mizzon\Dado(2)\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+E:\3E informatica\Alessandro Mizzon\Dado(2)\obj\Debug\Dado.exe
+E:\3E informatica\Alessandro Mizzon\Dado(2)\obj\Debug\Dado.pdb
+C:\Users\aless\OneDrive\Desktop\Dado(3)\bin\Debug\Dado.exe.config
+C:\Users\aless\OneDrive\Desktop\Dado(3)\bin\Debug\Dado.exe
+C:\Users\aless\OneDrive\Desktop\Dado(3)\bin\Debug\Dado.pdb
+C:\Users\aless\OneDrive\Desktop\Dado(3)\obj\Debug\Dado.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\Dado(3)\obj\Debug\Dado.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\Dado(3)\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\Dado(3)\obj\Debug\Dado.exe
+C:\Users\aless\OneDrive\Desktop\Dado(3)\obj\Debug\Dado.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\bin\Debug\Dado.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\bin\Debug\Dado.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\bin\Debug\Dado.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\obj\Debug\Dado.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\obj\Debug\Dado.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\obj\Debug\Dado.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Dado(4)\obj\Debug\Dado.pdb
