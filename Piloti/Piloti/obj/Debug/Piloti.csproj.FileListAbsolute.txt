@@ -1,0 +1,7 @@
+C:\Users\studente\Desktop\Piloti\Piloti\obj\Debug\Piloti.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\Piloti\Piloti\obj\Debug\Piloti.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\Piloti\Piloti\bin\Debug\Piloti.exe.config
+C:\Users\studente\Desktop\Piloti\Piloti\bin\Debug\Piloti.exe
+C:\Users\studente\Desktop\Piloti\Piloti\bin\Debug\Piloti.pdb
+C:\Users\studente\Desktop\Piloti\Piloti\obj\Debug\Piloti.exe
+C:\Users\studente\Desktop\Piloti\Piloti\obj\Debug\Piloti.pdb
