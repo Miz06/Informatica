@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\bin\Debug\Età.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\bin\Debug\Età.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\bin\Debug\Età.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\obj\Debug\Età.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\obj\Debug\Età.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\obj\Debug\Età.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\obj\Debug\Età.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\Età\Età\obj\Debug\Età.pdb

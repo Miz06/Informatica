@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\bin\Debug\AnagraficaEtà.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\bin\Debug\AnagraficaEtà.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\bin\Debug\AnagraficaEtà.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\obj\Debug\AnagraficaEtà.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\obj\Debug\AnagraficaEtà.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\obj\Debug\AnagraficaEtà.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\obj\Debug\AnagraficaEtà.exe
+C:\Users\aless\OneDrive\Desktop\scuola\S.T.A\Visual_studio\AnagraficaEtà\AnagraficaEtà\obj\Debug\AnagraficaEtà.pdb
