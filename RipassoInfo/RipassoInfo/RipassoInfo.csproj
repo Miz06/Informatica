@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Autonoleggio.cs" />
     <Compile Include="Flotte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Targa.cs" />
+    <Compile Include="Governo.cs" />
     <Compile Include="Veicoli.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace RipassoInfo
 {
-    internal class Targa
+    internal class Governo
     {
         string t;
-
         public string targa
         {
             get { return t; }

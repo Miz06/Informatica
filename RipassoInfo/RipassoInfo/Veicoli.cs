@@ -6,12 +6,20 @@ using System.Threading.Tasks;
 
 namespace RipassoInfo
 {
+    enum P
+    { 
+        two = 2,
+        four = 4,
+        six = 6, 
+        eight = 8
+    }
     internal class Veicoli
     {
         string marca;
-        Targa targa;
+        string targa;
         string modello;
         int codice;
+        P posti;
 
         public string Marca
         {
@@ -19,7 +27,7 @@ namespace RipassoInfo
             set { marca = value; }
         }
 
-        public Targa Targa
+        public string Targa
         {
             get { return targa; }
             set { targa = value; }
@@ -33,6 +41,12 @@ namespace RipassoInfo
         {
             get { return codice; }
             set { codice = value; }
+        }
+
+        public P Posti
+        {
+            get { return posti; }
+            set { posti = value; }
         }
 
 
