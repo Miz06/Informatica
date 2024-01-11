@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.SqlServer.Server;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,10 +9,10 @@ namespace RipassoInfo
 {
     enum P
     { 
-        two = 2,
-        four = 4,
-        six = 6, 
-        eight = 8
+        due = 2,
+        quattro = 4,
+        sei = 6, 
+        otto = 8
     }
     internal class Veicoli
     {
@@ -20,6 +21,11 @@ namespace RipassoInfo
         string modello;
         int codice;
         P posti;
+
+        public override string ToString()
+        {
+            return String.Format($"Marca: {marca}\nModello: {modello}\nTarga: {targa}\nCodice: {codice}\nPosti: {posti}");
+        }
 
         public string Marca
         {

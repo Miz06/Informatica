@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -16,16 +17,15 @@ namespace RipassoInfo
             Flotte f = new Flotte("Flotta1");
             int scelta;
             int codice = 1;
-            string[] menu = new string[] { "Aggiungi veicolo", "Visualizza", "Rimuovi elemento", "Visualizza elemento", "Scrivere la flotta in un file di log", "Leggi contenuto del file di log", "Ripulisci il file di log", "Esci"};
+            string[] menu = new string[] { "Aggiungi veicolo", "Visualizza", "Rimuovi elemento", "Visualizza elemento", "Scrivere la flotta in un file di log", "Leggi contenuto del file di log", "Ripulisci il file di log", "Visualizza veicoli per ogni marca", "Esci"};
             bool esci = false, ripeti = false;
-            List<Autonoleggio> autonoleggios = new List<Autonoleggio>();//<-----lista per macchine con autonoleggio
 
             do
             {
                 Console.WriteLine("-------------------------");
                 for (int i = 0; i < menu.Length; i++)
                 {
-                    Console.WriteLine($"[{i + 1}] {menu[i]}");
+                    Console.WriteLine($"[{i + 1}] {menu[i]}"); 
                 }
                 Console.WriteLine("-------------------------");
 
@@ -65,6 +65,9 @@ namespace RipassoInfo
                         PulisciLog(Path.Combine(Environment.CurrentDirectory + $"\\logFile.txt"));
                         break;
                     case 8:
+                        VisualizzaMarca(f);
+                        break;
+                    case 9:
                         esci = true;
                         break;
                 }
@@ -91,26 +94,36 @@ namespace RipassoInfo
             v.Modello = Console.ReadLine();
 
             Console.Write("Posti veicolo:\n[1] Due\n[2] Quattro\n[3] Sei\n[4] Otto\nScelta:");
-            posti = Convert.ToInt32(Console.ReadLine());
+            
+            bool ripeti = false;
+            do
+            {
+                ripeti = int.TryParse(Console.ReadLine(), out posti);
+
+                if (!ripeti)
+                {
+                    Console.Write("Valore inserito non valido. Reinserirlo:");
+                }
+            } while (!ripeti || posti < 1 || posti > 4);
 
             switch (posti)
             {
                 case 1:
-                    v.Posti = P.two;
+                    v.Posti = P.due;
                     break;
                 case 2:
-                    v.Posti = P.four;
+                    v.Posti = P.quattro;
                     break;
                 case 3:
-                    v.Posti = P.six;
+                    v.Posti = P.sei;
                     break;
                 case 4:
-                    v.Posti = P.eight;
+                    v.Posti = P.otto;
                     break;
             }
             flotta.AggiungiAllaLista(v);
         }
-        static void Visualizza(Flotte flotta)
+        static void Visualizza(Flotte flotta) 
         {
             Console.WriteLine($"Nome flotta: {flotta.Nome}");
             Console.WriteLine($"Autorizzazione: {flotta.Autorizzazione}");
@@ -121,40 +134,30 @@ namespace RipassoInfo
             for (int i = 0; i < list.Count; i++)
             {
                 Console.WriteLine();
-                Console.WriteLine($"[Veicolo n°{i + 1}]");
-                Console.WriteLine($"Marca: {list[i].Marca}");
-                Console.WriteLine($"Targa: {list[i].Targa}");
-                Console.WriteLine($"Modello: {list[i].Modello}");
-                Console.WriteLine($"Codice: {list[i].Codice}");
-                Console.WriteLine($"Posti: {list[i].Posti}");
+                Console.WriteLine(list[i].ToString());
             }
         }
-        static void VisualizzaElemento(Flotte f)
+        static void VisualizzaElemento(Flotte flotta) 
         {
             List<Veicoli> list = new List<Veicoli>();
-            list = f.Lista();
+            list = flotta.Lista();
 
             Console.Write("Inserire la targa dell'elemento da visualizzare: ");
             string targa = Console.ReadLine();
-            int i = f.Ricerca(targa);
+            int i = flotta.Ricerca(targa);
 
             if (i != -1)
             {
-                Console.WriteLine($"Nome flotta: {f.Nome}");
-                Console.WriteLine($"Autorizzazione: {f.Autorizzazione}");
+                Console.WriteLine($"Nome flotta: {flotta.Nome}");
+                Console.WriteLine($"Autorizzazione: {flotta.Autorizzazione}");
 
                 Console.WriteLine();
-                Console.WriteLine($"[Veicolo n°{i + 1}]");
-                Console.WriteLine($"Marca: {list[i].Marca}");
-                Console.WriteLine($"Targa: {list[i].Targa}");
-                Console.WriteLine($"Modello: {list[i].Modello}");
-                Console.WriteLine($"Codice: {list[i].Codice}");
-                Console.WriteLine($"Posti: {list[i].Posti}");
+                Console.WriteLine(list[i].ToString());
             }
             else
                 Console.WriteLine("Elemento non trovato");
         }
-        static void ScriviFile(string directory, Flotte flotta)
+        static void ScriviFile(string directory, Flotte flotta) //scrivi automaticamente e anche quando vengono rimosse le auto
         {
             StreamWriter sw = File.AppendText(directory);
             sw.WriteLine("^^^^^^^^^^^^^^^^^^^^^^^^^");
@@ -168,13 +171,8 @@ namespace RipassoInfo
 
             for (int i = 0; i < list.Count; i++)
             {
-                Console.WriteLine();
-                sw.WriteLine($"[Veicolo n°{i + 1}]");
-                sw.WriteLine($"Marca: {list[i].Marca}");
-                sw.WriteLine($"Targa: {list[i].Targa}");
-                sw.WriteLine($"Modello: {list[i].Modello}");
-                sw.WriteLine($"Codice: {list[i].Codice}");
-                sw.WriteLine($"Posti: {list[i].Posti}");
+                sw.WriteLine();
+                sw.WriteLine(list[i].ToString());
             }
             sw.Close();
         }
@@ -197,6 +195,48 @@ namespace RipassoInfo
         static void PulisciLog(string directory)
         {
             File.WriteAllText(directory, string.Empty);
+        }
+
+        static void VisualizzaMarca(Flotte f)
+        {
+            List<Veicoli> listaVeicoli = new List<Veicoli>();
+            listaVeicoli = f.Lista();
+
+            List<string> marche = new List<string>();
+
+            bool doppio = false;
+
+            for (int j = 0; j < listaVeicoli.Count; j++)
+            {
+                doppio = false;
+
+                for (int i = 0; i < marche.Count; i++)
+                {
+                    if (listaVeicoli[j].Marca == marche[i])
+                    {
+                        doppio = true;
+                        break;
+                    }
+                }
+
+                if (!doppio)
+                    marche.Add(listaVeicoli[j].Marca);
+            }
+
+            int[] contaMarche = new int[marche.Count];
+
+            for (int i = 0; i<marche.Count; i++)
+            {
+                for (int j = 0; j < listaVeicoli.Count; j++)
+                {
+                    if (marche[i] == listaVeicoli[j].Marca)
+                    {
+                        contaMarche[i]++;
+                    }
+                }
+
+                Console.WriteLine($"{marche[i]}: {contaMarche[i]}");
+            }
         }
     }
 }

@@ -1,0 +1,11 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^
+11/01/2024 16:33:02
+Nome flotta: Flotta1
+Autorizzazione: 58820U
+
+
+Marca: a
+Modello: r
+Targa: RC100LV
+Codice: 1
+Posti: quattro
