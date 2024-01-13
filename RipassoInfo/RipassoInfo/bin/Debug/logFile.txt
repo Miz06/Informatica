@@ -1,11 +1,135 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-11/01/2024 16:33:02
+13/01/2024 17:00:19
 Nome flotta: Flotta1
-Autorizzazione: 58820U
+Autorizzazione: 51074W
 
+
+Marca: Ar
+Modello: wer
+Targa: CP346QM
+Codice: 1
+Posti: otto
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:00:37
+Nome flotta: Flotta1
+Autorizzazione: 51074W
+
+
+Marca: Ar
+Modello: wer
+Targa: CP346QM
+Codice: 1
+Posti: otto
+
+Marca: t
+Modello: y
+Targa: ND157GD
+Codice: 2
+Posti: sei
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:01:54
+Nome flotta: Flotta1
+Autorizzazione: 46612H
 
 Marca: a
 Modello: r
-Targa: RC100LV
+Targa: BW537CM
 Codice: 1
 Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:01:57
+Nome flotta: Flotta1
+Autorizzazione: 46612H
+
+Marca: a
+Modello: r
+Targa: BW537CM
+Codice: 1
+Posti: quattro
+
+Marca: t
+Modello: y
+Targa: BO149RA
+Codice: 2
+Posti: otto
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:02:20
+Nome flotta: Flotta1
+Autorizzazione: 46612H
+
+Marca: t
+Modello: y
+Targa: BO149RA
+Codice: 2
+Posti: otto
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:19:41
+Nome flotta: Flotta1
+Autorizzazione: 56818Q
+
+Marca: a
+Modello: r
+Targa: HH913HK
+Codice: 1
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:20:04
+Nome flotta: Flotta1
+Autorizzazione: 56818Q
+
+Marca: a
+Modello: r
+Targa: HH913HK
+Codice: 2
+Posti: quattro
+
+Marca: e
+Modello: r
+Targa: PY770RL
+Codice: 2
+Posti: sei
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:20:12
+Nome flotta: Flotta1
+Autorizzazione: 56818Q
+
+Marca: a
+Modello: r
+Targa: HH913HK
+Codice: 3
+Posti: quattro
+
+Marca: e
+Modello: r
+Targa: PY770RL
+Codice: 3
+Posti: sei
+
+Marca: a
+Modello: r
+Targa: DA336ZK
+Codice: 3
+Posti: otto
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+13/01/2024 17:21:10
+Nome flotta: Flotta1
+Autorizzazione: 56818Q
+
+Marca: e
+Modello: r
+Targa: PY770RL
+Codice: 3
+Posti: sei
+
+Marca: a
+Modello: r
+Targa: DA336ZK
+Codice: 3
+Posti: otto

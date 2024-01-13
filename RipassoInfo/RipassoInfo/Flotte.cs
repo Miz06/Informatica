@@ -69,9 +69,14 @@ namespace RipassoInfo
             int i = Ricerca(targa);
 
             if (i != -1)
+            {
                 _parcoVeicoli.RemoveAt(i);
+                Console.WriteLine("Elemento rimosso con successo");
+            }
             else
+            {
                 Console.WriteLine("Elemento non trovato");
+            }
         }
     }
 }

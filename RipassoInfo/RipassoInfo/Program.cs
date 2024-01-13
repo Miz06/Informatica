@@ -13,11 +13,10 @@ namespace RipassoInfo
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {//Alessandro Mizzon 4E
             Flotte f = new Flotte("Flotta1");
             int scelta;
-            int codice = 1;
-            string[] menu = new string[] { "Aggiungi veicolo", "Visualizza", "Rimuovi elemento", "Visualizza elemento", "Scrivere la flotta in un file di log", "Leggi contenuto del file di log", "Ripulisci il file di log", "Visualizza veicoli per ogni marca", "Esci"};
+            string[] menu = new string[] { "Aggiungi veicolo", "Visualizza", "Rimuovi elemento", "Visualizza elemento","Leggi contenuto del file di log", "Ripulisci il file di log", "Visualizza veicoli per ogni marca", "Esci"};
             bool esci = false, ripeti = false;
 
             do
@@ -44,30 +43,29 @@ namespace RipassoInfo
                 switch (scelta)
                 {
                     case 1:
-                        AggiungiVeicolo(ref codice, ref f);
+                        AggiungiVeicolo(f);
+                        ScriviFile(Path.Combine(Environment.CurrentDirectory + $"\\logFile.txt"), f);
                         break;
                     case 2:
                         Visualizza(f);
                         break;
                     case 3:
                         f.RimuoviElemento();
+                        ScriviFile(Path.Combine(Environment.CurrentDirectory + $"\\logFile.txt"), f);
                         break;
                     case 4:
                         VisualizzaElemento(f);
                         break;
                     case 5:
-                        ScriviFile(Path.Combine(Environment.CurrentDirectory + $"\\logFile.txt"), f);
-                        break;
-                    case 6:
                         LeggiFile(Path.Combine(Environment.CurrentDirectory + $"\\logFile.txt"));
                         break;
-                    case 7:
+                    case 6:
                         PulisciLog(Path.Combine(Environment.CurrentDirectory + $"\\logFile.txt"));
                         break;
-                    case 8:
+                    case 7:
                         VisualizzaMarca(f);
                         break;
-                    case 9:
+                    case 8:
                         esci = true;
                         break;
                 }
@@ -76,16 +74,14 @@ namespace RipassoInfo
                 Console.Clear();
             } while (!esci);
         }
-        static void AggiungiVeicolo(ref int codice, ref Flotte flotta)
+        static void AggiungiVeicolo(Flotte flotta)
         {
             int posti;
             Veicoli v = new Veicoli();
 
-            Governo targa = new Governo();
-            v.Targa = targa.GeneraTarga();
-
-            v.Codice = codice;
-            codice++;
+            v.Targa = Governo.GeneraTarga();
+            
+            v.CodiceVeicolo = Veicoli.Codice;
 
             Console.Write("Marca: ");
             v.Marca = Console.ReadLine();
@@ -157,14 +153,14 @@ namespace RipassoInfo
             else
                 Console.WriteLine("Elemento non trovato");
         }
-        static void ScriviFile(string directory, Flotte flotta) //scrivi automaticamente e anche quando vengono rimosse le auto
+        static void ScriviFile(string directory, Flotte flotta)
         {
             StreamWriter sw = File.AppendText(directory);
+            sw.WriteLine();
             sw.WriteLine("^^^^^^^^^^^^^^^^^^^^^^^^^");
             sw.WriteLine($"{DateTime.Now.ToString()}");
             sw.WriteLine($"Nome flotta: {flotta.Nome}");
             sw.WriteLine($"Autorizzazione: {flotta.Autorizzazione}");
-            sw.WriteLine("");
 
             List<Veicoli> list = new List<Veicoli>();
             list = flotta.Lista();
@@ -190,13 +186,11 @@ namespace RipassoInfo
             }
 
             sr.Close();
-        }
-        
+        }        
         static void PulisciLog(string directory)
         {
             File.WriteAllText(directory, string.Empty);
         }
-
         static void VisualizzaMarca(Flotte f)
         {
             List<Veicoli> listaVeicoli = new List<Veicoli>();

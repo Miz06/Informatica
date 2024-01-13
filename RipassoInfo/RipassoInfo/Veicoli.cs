@@ -19,12 +19,29 @@ namespace RipassoInfo
         string marca;
         string targa;
         string modello;
-        int codice;
+        int codiceVeicolo;
+        static int codice;
         P posti;
 
         public override string ToString()
         {
             return String.Format($"Marca: {marca}\nModello: {modello}\nTarga: {targa}\nCodice: {codice}\nPosti: {posti}");
+        }
+
+        public Veicoli()
+        {
+            codice++;
+            codiceVeicolo = codice;
+        }
+        public int CodiceVeicolo
+        {
+            get { return codiceVeicolo; }
+            set { codiceVeicolo = value; }
+        }
+        static public int Codice
+        {
+            get { return codice; }
+            set { codice = value; }
         }
 
         public string Marca
@@ -42,11 +59,6 @@ namespace RipassoInfo
         {
             get { return modello; }
             set { modello = value; }
-        }
-        public int Codice
-        {
-            get { return codice; }
-            set { codice = value; }
         }
 
         public P Posti

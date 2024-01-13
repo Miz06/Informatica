@@ -6,15 +6,9 @@ using System.Threading.Tasks;
 
 namespace RipassoInfo
 {
-    internal class Governo
+    internal static class Governo
     {
-        string t;
-        public string targa
-        {
-            get { return t; }
-            set { t = value; }
-        }
-        public string GeneraTarga()
+        static public string GeneraTarga()
         {
             Random random = new Random();
             int r;
