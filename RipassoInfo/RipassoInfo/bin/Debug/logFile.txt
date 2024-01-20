@@ -133,3 +133,173 @@ Modello: r
 Targa: DA336ZK
 Codice: 3
 Posti: otto
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:38:53
+Nome flotta: Flotta1
+Autorizzazione: 83899Q
+
+Marca: a
+Modello: r
+Targa: IG824KH
+Codice: 1
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:38:58
+Nome flotta: Flotta1
+Autorizzazione: 83899Q
+
+Marca: a
+Modello: r
+Targa: IG824KH
+Codice: 2
+Posti: quattro
+
+Marca: d
+Modello: r
+Targa: AN795OE
+Codice: 2
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:47:44
+Nome flotta: Flotta1
+Autorizzazione: 77721M
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:47:50
+Nome flotta: Flotta1
+Autorizzazione: 77721M
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:48:09
+Nome flotta: Flotta1
+Autorizzazione: 42715H
+
+Marca: a
+Modello: r
+Targa: US377HD
+Codice: 1
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:48:10
+Nome flotta: Flotta1
+Autorizzazione: 42715H
+
+Marca: a
+Modello: r
+Targa: US377HD
+Codice: 2
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:48:12
+Nome flotta: Flotta1
+Autorizzazione: 42715H
+
+Marca: a
+Modello: r
+Targa: US377HD
+Codice: 3
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:48:13
+Nome flotta: Flotta1
+Autorizzazione: 42715H
+
+Marca: a
+Modello: r
+Targa: US377HD
+Codice: 4
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:48:15
+Nome flotta: Flotta1
+Autorizzazione: 42715H
+
+Marca: a
+Modello: r
+Targa: US377HD
+Codice: 5
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:49:55
+Nome flotta: Flotta1
+Autorizzazione: 22630N
+
+Marca: r
+Modello: t
+Targa: GX216JL
+Codice: 1
+Posti: sei
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:49:57
+Nome flotta: Flotta1
+Autorizzazione: 22630N
+
+Marca: r
+Modello: t
+Targa: GX216JL
+Codice: 2
+Posti: sei
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:50:00
+Nome flotta: Flotta1
+Autorizzazione: 22630N
+
+Marca: r
+Modello: t
+Targa: GX216JL
+Codice: 3
+Posti: sei
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:50:01
+Nome flotta: Flotta1
+Autorizzazione: 22630N
+
+Marca: r
+Modello: t
+Targa: GX216JL
+Codice: 4
+Posti: sei
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:50:03
+Nome flotta: Flotta1
+Autorizzazione: 22630N
+
+Marca: r
+Modello: t
+Targa: GX216JL
+Codice: 5
+Posti: sei
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:56:05
+Nome flotta: Flotta1
+Autorizzazione: 50774R
+
+Marca: ar
+Modello: r
+Targa: QI855BY
+Codice: 1
+Posti: quattro
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+20/01/2024 17:56:07
+Nome flotta: Flotta1
+Autorizzazione: 50774R
+
+Marca: ar
+Modello: r
+Targa: QI855BY
+Codice: 2
+Posti: quattro

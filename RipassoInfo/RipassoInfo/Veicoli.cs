@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 namespace RipassoInfo
 {
     enum P
-    { 
+    {
         due = 2,
         quattro = 4,
-        sei = 6, 
+        sei = 6,
         otto = 8
     }
     internal class Veicoli
@@ -31,13 +31,20 @@ namespace RipassoInfo
         public Veicoli()
         {
             codice++;
-            codiceVeicolo = codice;
         }
         public int CodiceVeicolo
         {
             get { return codiceVeicolo; }
-            set { codiceVeicolo = value; }
+            set
+            {
+                codiceVeicolo = value;
+                if (codiceVeicolo > 1)
+                {
+                    throw new Exception("Limite 1000 auto raggiunto");
+                }
+            }
         }
+
         static public int Codice
         {
             get { return codice; }

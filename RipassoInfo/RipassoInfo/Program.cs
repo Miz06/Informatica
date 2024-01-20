@@ -79,46 +79,59 @@ namespace RipassoInfo
             int posti;
             Veicoli v = new Veicoli();
 
-            v.Targa = Governo.GeneraTarga();
-            
-            v.CodiceVeicolo = Veicoli.Codice;
-
-            Console.Write("Marca: ");
-            v.Marca = Console.ReadLine();
-
-            Console.Write("Modello: ");
-            v.Modello = Console.ReadLine();
-
-            Console.Write("Posti veicolo:\n[1] Due\n[2] Quattro\n[3] Sei\n[4] Otto\nScelta:");
-            
-            bool ripeti = false;
-            do
+            try
             {
-                ripeti = int.TryParse(Console.ReadLine(), out posti);
-
-                if (!ripeti)
-                {
-                    Console.Write("Valore inserito non valido. Reinserirlo:");
-                }
-            } while (!ripeti || posti < 1 || posti > 4);
-
-            switch (posti)
-            {
-                case 1:
-                    v.Posti = P.due;
-                    break;
-                case 2:
-                    v.Posti = P.quattro;
-                    break;
-                case 3:
-                    v.Posti = P.sei;
-                    break;
-                case 4:
-                    v.Posti = P.otto;
-                    break;
+                v.CodiceVeicolo = Veicoli.Codice;
             }
-            flotta.AggiungiAllaLista(v);
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            if (Veicoli.Codice < 2)
+            {
+                v.CodiceVeicolo = Veicoli.Codice;
+
+                v.Targa = Governo.GeneraTarga();
+
+                Console.Write("Marca: ");
+                v.Marca = Console.ReadLine();
+
+                Console.Write("Modello: ");
+                v.Modello = Console.ReadLine();
+
+                Console.Write("Posti veicolo:\n[1] Due\n[2] Quattro\n[3] Sei\n[4] Otto\nScelta:");
+
+                bool ripeti = false;
+                do
+                {
+                    ripeti = int.TryParse(Console.ReadLine(), out posti);
+
+                    if (!ripeti)
+                    {
+                        Console.Write("Valore inserito non valido. Reinserirlo:");
+                    }
+                } while (!ripeti || posti < 1 || posti > 4);
+
+                switch (posti)
+                {
+                    case 1:
+                        v.Posti = P.due;
+                        break;
+                    case 2:
+                        v.Posti = P.quattro;
+                        break;
+                    case 3:
+                        v.Posti = P.sei;
+                        break;
+                    case 4:
+                        v.Posti = P.otto;
+                        break;
+                }
+                flotta.AggiungiAllaLista(v);
+            }
         }
+        
         static void Visualizza(Flotte flotta) 
         {
             Console.WriteLine($"Nome flotta: {flotta.Nome}");
