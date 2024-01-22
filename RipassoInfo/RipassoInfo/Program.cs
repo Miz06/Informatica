@@ -94,7 +94,7 @@ namespace RipassoInfo
 
                 v.Targa = Governo.GeneraTarga();
 
-                Console.Write("Marca: ");
+                Console.Write("Marca: ");3
                 v.Marca = Console.ReadLine();
 
                 Console.Write("Modello: ");
