@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\bin\Debug\PostVerificaFilaA.exe.config
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\bin\Debug\PostVerificaFilaA.exe
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\bin\Debug\PostVerificaFilaA.pdb
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\obj\Debug\PostVerificaFilaA.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\obj\Debug\PostVerificaFilaA.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\obj\Debug\PostVerificaFilaA.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\obj\Debug\PostVerificaFilaA.exe
+C:\Users\aless\OneDrive\Desktop\PostVerificaFilaA\PostVerificaFilaA\obj\Debug\PostVerificaFilaA.pdb
