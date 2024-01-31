@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29FF8892-B676-40DD-B87E-1AE64A735D2B}</ProjectGuid>
+    <ProjectGuid>{8E70FC45-BBAD-4E86-B75D-69562BD093A0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>PostVerificaFilaB</RootNamespace>
     <AssemblyName>PostVerificaFilaB</AssemblyName>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Banca.cs" />
-    <Compile Include="Conto.cs" />
+    <Compile Include="Articolo.cs" />
+    <Compile Include="Magazzino.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -8,46 +8,47 @@ using System.Threading.Tasks;
 namespace PostVerificaFilaA
 {
     internal class Program
-    {//Alessandro Mizzon 4E
+    {
         static void Main(string[] args)
         {
-            Magazzino magazzino = new Magazzino("Il magazzino di beppe e franco");
-            String[] arr = new string[] { "Aggiungi articolo", "Visualizza", "Prezzo totale", "Carico", "Scarico", "Leggi log", "Esci" };
+            Banca banca = new Banca("La banca di Luigi");
+            string[] arr = new string[] { "Aggiungi conto", "Visualizza conti", "Visualizza totale", "Aggiungi al conto", "Preleva", "Visualizza log.txt", "Esci" };
             bool esci = false;
 
-            Scrivi("\n^^^^^^^^^^^^^^^^^");
-            Scrivi($"{magazzino.Descrizione}");
+            Write("^^^^^^^^^^^^^^^^");
+            Write(banca.GetNome);
+
             do
             {
-                Console.WriteLine("Menù");
+                Console.WriteLine("Menù:");
                 for (int i = 0; i < arr.Length; i++)
                 {
                     Console.WriteLine($"[{i + 1}] {arr[i]}");
                 }
-                Console.WriteLine("---------------------");
-                Console.Write("Scelta: ");
+
+                Console.WriteLine("------------");
                 int scelta = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine();
 
                 switch (scelta)
                 {
                     case 1:
-                        AggiungiArticolo(magazzino);
+                        AggiungiConto(banca);
                         break;
                     case 2:
-                        Visualizza(magazzino);
+                        Visualizza(banca);
                         break;
                     case 3:
-                        Console.WriteLine(magazzino.PrezzoTotale());
+                        Totale(banca);
                         break;
                     case 4:
-                        Carico(magazzino);
+                        AddToSaldo(banca);
                         break;
                     case 5:
-                        Scarico(magazzino);
+                        RemoveToSaldo(banca);
                         break;
                     case 6:
-                        Leggi();
+                        Read();
                         break;
                     case 7:
                         esci = true;
@@ -57,69 +58,71 @@ namespace PostVerificaFilaA
                 Console.ReadLine();
                 Console.Clear();
             } while (!esci);
+
         }
 
-        static void AggiungiArticolo(Magazzino m)
+        static void AggiungiConto(Banca b)
         {
-            Console.Write("Inserire descrizione:");
-            string descrizione = Console.ReadLine();
+            Console.Write("Nome: ");
+            string nome = Console.ReadLine();
 
-            Console.Write("Inserire prezzo:");
-            double prezzo = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Cognome: ");
+            string cognome = Console.ReadLine();
 
-            Articolo a = new Articolo(descrizione, prezzo, m.Codice());
-            m.AggiungiArticolo(a);
+            Conto c = new Conto(nome, cognome, b.Numero());
 
-            Scrivi($"{DateTime.Now.ToString()} - Articolo aggiunto >> {a.ToString()}");
+            b.AggiungiContoBanca(c);
+
+            Write($"{DateTime.Now.ToString()} - Aggiunto conto: {c.ToString()}");
         }
 
-        static void Visualizza(Magazzino m)
+        static void Visualizza(Banca b)
         {
-            Console.WriteLine("=====================");
-            Console.WriteLine(m.Descrizione);
-            Console.WriteLine("=====================");
-            m.Lista().ForEach(elemento => Console.WriteLine(elemento.ToString()));
-            Console.WriteLine("=====================");
+            Console.WriteLine(b.GetNome);
+            Console.WriteLine("-----------------------");
+            b.ListaConti().ForEach(elemento => Console.WriteLine(elemento.ToString()));
         }
 
-        static void Carico(Magazzino m)
+        static void Totale(Banca b)
         {
-            Console.Write("Articolo: ");
-            string articolo = Console.ReadLine();
+            Console.WriteLine($"Saldo totale: {b.Totale()}");
+        }
 
-            Console.Write("Quantità carico: ");
-            double carico = Convert.ToInt32(Console.ReadLine());
+        static void AddToSaldo(Banca b)
+        {
+            Console.Write("Numero conto: ");
+            int n = Convert.ToInt32(Console.ReadLine());
 
-            if (m.Carico(articolo, carico))
+            Console.Write("Aggiungere: ");
+            int add = Convert.ToInt32(Console.ReadLine());
+
+            if (b.AddToSaldo(n, add))
             {
-                Console.WriteLine("Carico effettuato");
-                Scrivi($"{DateTime.Now.ToString()} >> Articolo: {articolo} - Carico: {carico}");
+                Write($"{DateTime.Now.ToString()} >> Aggiunto al conto {n}: +{add}");
+            }
+        }
+        static void RemoveToSaldo(Banca b)
+        {
+            Console.Write("Numero conto: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Prelevare: ");
+            int add = Convert.ToInt32(Console.ReadLine());
+
+            if (b.RemoveToSaldo(n, add))
+            {
+                Write($"{DateTime.Now.ToString()} >> Prelevato dal conto {n}: -{add}");
             }
         }
 
-        static void Scarico(Magazzino m)
-        {
-            Console.Write("Articolo: ");
-            string articolo = Console.ReadLine();
-
-            Console.Write("Quantità scarico: ");
-            double carico = Convert.ToInt32(Console.ReadLine());
-
-            if (m.Scarico(articolo, carico))
-            {
-                Console.WriteLine("Scarico effettuato");
-                Scrivi($"{DateTime.Now.ToString()} >> Articolo: {articolo} - Scarico: {carico}");
-            }
-        }
-
-        static void Scrivi(string stringa)
+        static void Write(string stringa)
         {
             StreamWriter sw = File.AppendText(Path.Combine(Environment.CurrentDirectory + "\\log.txt"));
             sw.WriteLine(stringa);
             sw.Close();
         }
 
-        static void Leggi()
+        static void Read()
         {
             StreamReader sr = File.OpenText(Path.Combine(Environment.CurrentDirectory + "\\log.txt"));
             string linea = sr.ReadLine();
@@ -132,9 +135,6 @@ namespace PostVerificaFilaA
                     linea = sr.ReadLine();
                 } while (linea != null);
             }
-
-            sr.Close();
         }
-
     }
 }
