@@ -29,3 +29,13 @@ C:\Users\aless\OneDrive\Desktop\Mosca\Mosca\obj\Debug\Mosca.csproj.GenerateResou
 C:\Users\aless\OneDrive\Desktop\Mosca\Mosca\obj\Debug\Mosca.csproj.CoreCompileInputs.cache
 C:\Users\aless\OneDrive\Desktop\Mosca\Mosca\obj\Debug\Mosca.exe
 C:\Users\aless\OneDrive\Desktop\Mosca\Mosca\obj\Debug\Mosca.pdb
+C:\Users\studente\Desktop\Mosca\Mosca\bin\Debug\Mosca.exe.config
+C:\Users\studente\Desktop\Mosca\Mosca\bin\Debug\Mosca.exe
+C:\Users\studente\Desktop\Mosca\Mosca\bin\Debug\Mosca.pdb
+C:\Users\studente\Desktop\Mosca\Mosca\obj\Debug\Mosca.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\Mosca\Mosca\obj\Debug\Mosca.Form1.resources
+C:\Users\studente\Desktop\Mosca\Mosca\obj\Debug\Mosca.Properties.Resources.resources
+C:\Users\studente\Desktop\Mosca\Mosca\obj\Debug\Mosca.csproj.GenerateResource.cache
+C:\Users\studente\Desktop\Mosca\Mosca\obj\Debug\Mosca.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\Mosca\Mosca\obj\Debug\Mosca.exe
+C:\Users\studente\Desktop\Mosca\Mosca\obj\Debug\Mosca.pdb

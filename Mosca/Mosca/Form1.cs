@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml;
 
 namespace Mosca
 {
@@ -14,6 +15,8 @@ namespace Mosca
     {
         Point xy;
         Random posizione = new Random();
+        int missed = 0;
+        int i = 0;
 
         private Insetto insetto;
         string path = Environment.CurrentDirectory + "\\mosca_immagini"; 
@@ -27,11 +30,6 @@ namespace Mosca
         private void Form1_Load(object sender, EventArgs e)
         {
             Mosca.Checked = true;
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Close();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -48,15 +46,18 @@ namespace Mosca
             timer1.Enabled = false;
             Bug.Image = Image.FromFile(path + $"\\{imageName}X.gif");
 
-            MessageBox.Show("Colpito", "MSG", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            MessageBox.Show("Colpito", "Message from the game ", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+
+            if (i<3)
+            {
+                timer1.Interval -= 300;
+                i++;
+            }
 
             timer1.Enabled = true;
             Bug.Image = Image.FromFile(path + $"\\{imageName}.gif");
         }
-        private void area_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
+ 
         private void Insetti_Enter(object sender, EventArgs e)
         {
 
@@ -69,6 +70,26 @@ namespace Mosca
         private string GetCurrentImageName()
         {
             return insetto.GetCurrentImageName();
+        }
+
+        private void btn_close_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void area_Click(object sender, EventArgs e)
+        {
+            missed++;
+            if(missed == 5)
+            {
+                MessageBox.Show("You have already missed the bug 5 times", "GAME OVER", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+                Close();
+            }
         }
     }
 }
