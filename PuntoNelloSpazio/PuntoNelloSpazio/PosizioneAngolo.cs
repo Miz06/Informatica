@@ -16,10 +16,15 @@ namespace PuntoNelloSpazio
             y = GeneraNumeri(0, 21);
         }
 
+        public PosizioneAngolo(_x, _y)
+        {
+            x = _x;
+            y = _y;
+        }
+
         public int GeneraNumeri(int estremo1, int etremo2)
         {
             Random r = new Random();
-
             return r.Next(estremo1, etremo2);
         }
 

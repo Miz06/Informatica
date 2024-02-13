@@ -6,26 +6,20 @@ using System.Threading.Tasks;
 
 namespace PuntoNelloSpazio
 {
-    struct Punto
-    {
-        public int x;
-        public int y;
-    }
-
     internal class Rettangolo
     {
         int height, width;
         
-        public Rettangolo(Punto p)
+        public Rettangolo(PosizioneAngolo p)
         {
-            height = 12;
-            width = 20;
+            height = p.y;
+            width = p.x;
         }
 
         public Rettangolo(int x, int y)
         {
-            height = 12;
-            width = 20;
+            height = y;
+            width = x;
         }
 
         public int Area()

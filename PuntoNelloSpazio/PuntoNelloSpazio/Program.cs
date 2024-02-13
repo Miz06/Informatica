@@ -7,13 +7,7 @@ using System.Threading.Tasks;
 namespace PuntoNelloSpazio
 {
     internal class Program
-    {
-        public struct Punto
-        {
-            public int x;
-            public int y;
-        }
-
+    { 
         static void Main(string[] args)
         {
             string[] options = new string[] { "rettangolo", "Quadrato", "Parallelogramma" };
@@ -28,37 +22,31 @@ namespace PuntoNelloSpazio
             int scelta = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine();
 
+            Console.WriteLine("Desideri passare:\n[1] Un punto\n[2] Coordinate [3] Le coordinate di default");
+            int scelta2 = Convert.ToInt32(Console.ReadLine());
+
             switch (scelta)
             {
                 case 1:
-                    Console.WriteLine("Desideri passare:\n[1] Un punto\n[2] Coordinate [3] Le coordinate di default");
-                    int scelta2 = Convert.ToInt32(Console.ReadLine());
-
                     switch (scelta2)
                     {
                         case 1:
-                            Punto point;
-
-                            Console.Write("X: ");
-                            point.x = Convert.ToInt32(Console.ReadLine());
-                            Console.Write("Y: ");
-                            point.y = Convert.ToInt32(Console.ReadLine());
-
-                            Rettangolo r1 = new Rettangolo(point);
-                            break;
-
-                        case 2:
                             Console.Write("X: ");
                             int x = Convert.ToInt32(Console.ReadLine());
                             Console.Write("Y: ");
                             int y = Convert.ToInt32(Console.ReadLine());
 
-                            Rettangolo r2 = new Rettangolo(x, y);
+                            Rettangolo r = new Rettangolo(x, y);
+                            break;
+
+                        case 2:
+                            Rettangolo r = new Rettangolo();
                             break;
 
                         case 3:
                             PosizioneAngolo p = new PosizioneAngolo();
-                            Rettangolo r3 = new Rettangolo(p.GetWidthPoint, p.GetHeightPoint);
+
+                            Rettangolo r = new Rettangolo(p);
                             break;
                     }
                     break;
