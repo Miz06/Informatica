@@ -65,9 +65,9 @@ namespace PuntoNelloSpazio
                     break;
 
                 case 3:
-                    Parallelogramma parallelogramma = new Parallelogramma(position, 20, 20);
+                    Parallelogramma parallelogramma = new Parallelogramma(position, 20, 20, 2);
 
-                    Console.WriteLine($"Il tuo parallelogramma ha:\nArea => {parallelogramma.Area()}\nPerimetro => {parallelogramma.Perimetro()}");
+                    Console.WriteLine($"Il tuo parallelogramma ha:\nArea => {parallelogramma.Area()}\nPerimetro => {parallelogramma.Perimetro()}\nVolume => {parallelogramma.Volume()}");
                     Console.WriteLine("----------------------------");
                     break;
             }
