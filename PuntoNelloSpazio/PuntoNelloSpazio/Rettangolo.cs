@@ -8,37 +8,35 @@ namespace PuntoNelloSpazio
 {
     internal class Rettangolo
     {
-        int height, width;
+        int altezza, larghezza;
         
-        public Rettangolo(PosizioneAngolo p)
+        public Rettangolo(PosizioneAngolo p, int _altezza, int _larghezza)
         {
-            height = p.y;
-            width = p.x;
+            altezza = _altezza;
+            larghezza = _larghezza;
         }
 
-        public Rettangolo(int x, int y)
+        public Rettangolo(int x, int y, int _altezza, int _larghezza):this(null, _altezza, _larghezza)
         {
-            height = y;
-            width = x;
         }
 
         public int Area()
         {
-            return height*width;
+            return altezza*larghezza;
         }
 
         public int Perimetro()
         {
-            return (height+width)*2;
+            return (altezza +larghezza)*2;
         }
-        public int GetHeight
+        public int GetAltezza
         {
-            get { return height; }
+            get { return altezza; }
         }
 
-        public int GetWidth
+        public int GetLarghezza
         {
-            get { return width; }
+            get { return larghezza; }
         }
     }
 }

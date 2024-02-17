@@ -6,3 +6,11 @@ C:\Users\aless\OneDrive\Desktop\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\Punt
 C:\Users\aless\OneDrive\Desktop\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.csproj.CoreCompileInputs.cache
 C:\Users\aless\OneDrive\Desktop\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.exe
 C:\Users\aless\OneDrive\Desktop\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\bin\Debug\PuntoNelloSpazio.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\bin\Debug\PuntoNelloSpazio.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\bin\Debug\PuntoNelloSpazio.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\PuntoNelloSpazio\PuntoNelloSpazio\obj\Debug\PuntoNelloSpazio.pdb

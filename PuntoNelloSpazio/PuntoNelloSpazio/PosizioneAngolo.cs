@@ -10,34 +10,26 @@ namespace PuntoNelloSpazio
     {
         int x, y;
 
-        public PosizioneAngolo()
+        public PosizioneAngolo()//default
         {
-            x = GeneraNumeri(0, 101);
-            y = GeneraNumeri(0, 21);
+            x = 0;
+            y = 0;
         }
 
-        public PosizioneAngolo(_x, _y)
+        public PosizioneAngolo(int _x, int _y)//inserimento
         {
             x = _x;
             y = _y;
         }
 
-        public int GeneraNumeri(int estremo1, int etremo2)
-        {
-            Random r = new Random();
-            return r.Next(estremo1, etremo2);
-        }
-
-        public int GetHeightPoint
+        public int GetYPoint
         {
             get { return y; }
-            set { y = value; }
         }
 
-        public int GetWidthPoint
+        public int GetXPoint
         {
             get { return x; }
-            set { x = value; }
         }
     }
 }
