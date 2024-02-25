@@ -1,0 +1,41 @@
+C:\Users\studente\Desktop\bancaVis\bancaVis\bin\Debug\bancaVis.exe.config
+C:\Users\studente\Desktop\bancaVis\bancaVis\bin\Debug\bancaVis.exe
+C:\Users\studente\Desktop\bancaVis\bancaVis\bin\Debug\bancaVis.pdb
+C:\Users\studente\Desktop\bancaVis\bancaVis\obj\Debug\bancaVis.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\bancaVis\bancaVis\obj\Debug\bancaVis.Form1.resources
+C:\Users\studente\Desktop\bancaVis\bancaVis\obj\Debug\bancaVis.Properties.Resources.resources
+C:\Users\studente\Desktop\bancaVis\bancaVis\obj\Debug\bancaVis.csproj.GenerateResource.cache
+C:\Users\studente\Desktop\bancaVis\bancaVis\obj\Debug\bancaVis.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\bancaVis\bancaVis\obj\Debug\bancaVis.exe
+C:\Users\studente\Desktop\bancaVis\bancaVis\obj\Debug\bancaVis.pdb
+F:\4E\Luca Buttini\bancaVis2\bancaVis\bin\Debug\bancaVis.exe.config
+F:\4E\Luca Buttini\bancaVis2\bancaVis\bin\Debug\bancaVis.exe
+F:\4E\Luca Buttini\bancaVis2\bancaVis\bin\Debug\bancaVis.pdb
+F:\4E\Luca Buttini\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.AssemblyReference.cache
+F:\4E\Luca Buttini\bancaVis2\bancaVis\obj\Debug\bancaVis.Form1.resources
+F:\4E\Luca Buttini\bancaVis2\bancaVis\obj\Debug\bancaVis.Properties.Resources.resources
+F:\4E\Luca Buttini\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.GenerateResource.cache
+F:\4E\Luca Buttini\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.CoreCompileInputs.cache
+F:\4E\Luca Buttini\bancaVis2\bancaVis\obj\Debug\bancaVis.exe
+F:\4E\Luca Buttini\bancaVis2\bancaVis\obj\Debug\bancaVis.pdb
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\bin\Debug\bancaVis.exe.config
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\bin\Debug\bancaVis.exe
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\bin\Debug\bancaVis.pdb
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.AssemblyReference.cache
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\obj\Debug\bancaVis.Form1.resources
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\obj\Debug\bancaVis.Properties.Resources.resources
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.GenerateResource.cache
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\obj\Debug\bancaVis.exe
+C:\Users\Emilio\Desktop\Itis\C#\bancaVis2\bancaVis\obj\Debug\bancaVis.pdb
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\bin\Debug\bancaVis.exe.config
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\bin\Debug\bancaVis.exe
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\bin\Debug\bancaVis.pdb
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.Form1.resources
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.Properties.Resources.resources
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.GenerateResource.cache
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.exe
+C:\Users\aless\OneDrive\Desktop\bancaVis2\bancaVis2\bancaVis\obj\Debug\bancaVis.pdb
