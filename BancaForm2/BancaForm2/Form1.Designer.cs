@@ -37,6 +37,7 @@
             this.movimentoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aggiungiAlContoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rimuoviDalContoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
@@ -45,7 +46,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -83,9 +83,10 @@
             this.bancaToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // bancaToolStripMenuItem
             // 
@@ -94,13 +95,14 @@
             this.movimentoToolStripMenuItem,
             this.toolStripMenuItem1});
             this.bancaToolStripMenuItem.Name = "bancaToolStripMenuItem";
-            this.bancaToolStripMenuItem.Size = new System.Drawing.Size(63, 24);
+            this.bancaToolStripMenuItem.Size = new System.Drawing.Size(51, 20);
             this.bancaToolStripMenuItem.Text = "Banca";
+            this.bancaToolStripMenuItem.Click += new System.EventHandler(this.bancaToolStripMenuItem_Click);
             // 
             // aggiungiContoToolStripMenuItem
             // 
             this.aggiungiContoToolStripMenuItem.Name = "aggiungiContoToolStripMenuItem";
-            this.aggiungiContoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.aggiungiContoToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.aggiungiContoToolStripMenuItem.Text = "Aggiungi conto";
             this.aggiungiContoToolStripMenuItem.Click += new System.EventHandler(this.aggiungiContoToolStripMenuItem_Click);
             // 
@@ -110,22 +112,29 @@
             this.aggiungiAlContoToolStripMenuItem,
             this.rimuoviDalContoToolStripMenuItem});
             this.movimentoToolStripMenuItem.Name = "movimentoToolStripMenuItem";
-            this.movimentoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.movimentoToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.movimentoToolStripMenuItem.Text = "Movimento";
             // 
             // aggiungiAlContoToolStripMenuItem
             // 
             this.aggiungiAlContoToolStripMenuItem.Name = "aggiungiAlContoToolStripMenuItem";
-            this.aggiungiAlContoToolStripMenuItem.Size = new System.Drawing.Size(213, 26);
+            this.aggiungiAlContoToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
             this.aggiungiAlContoToolStripMenuItem.Text = "Aggiungi al conto";
             this.aggiungiAlContoToolStripMenuItem.Click += new System.EventHandler(this.aggiungiAlContoToolStripMenuItem_Click);
             // 
             // rimuoviDalContoToolStripMenuItem
             // 
             this.rimuoviDalContoToolStripMenuItem.Name = "rimuoviDalContoToolStripMenuItem";
-            this.rimuoviDalContoToolStripMenuItem.Size = new System.Drawing.Size(213, 26);
+            this.rimuoviDalContoToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
             this.rimuoviDalContoToolStripMenuItem.Text = "Rimuovi dal conto";
             this.rimuoviDalContoToolStripMenuItem.Click += new System.EventHandler(this.rimuoviDalContoToolStripMenuItem_Click);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(157, 22);
+            this.toolStripMenuItem1.Text = "Visualizzazione";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // textBox2
             // 
@@ -194,13 +203,6 @@
             this.label5.Size = new System.Drawing.Size(90, 16);
             this.label5.TabIndex = 11;
             this.label5.Text = "NumeroConto";
-            // 
-            // toolStripMenuItem1
-            // 
-            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
-            this.toolStripMenuItem1.Text = "Visualizzazione";
-            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // Form1
             // 

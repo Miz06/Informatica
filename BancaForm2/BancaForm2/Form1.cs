@@ -73,7 +73,7 @@ namespace BancaForm2
             listBox1.Items.Clear();
             if (!banca.Lista()[Convert.ToInt32(textBox5.Text)].RemoveToConto(Convert.ToInt32(textBox1.Text)))
             {
-                MessageBox.Show("saldo insufficente", "ATTENZIONE");
+                MessageBox.Show("Saldo insufficente", "ATTENZIONE", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             listBox1.Items.Add(banca.Lista()[Convert.ToInt32(textBox5.Text)].StringaConto());
         }
@@ -91,6 +91,16 @@ namespace BancaForm2
             {
                 listBox1.Items.Add(conto.StringaConto());
             }
+        }
+
+        private void bancaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            aggiungiContoToolStripMenuItem.Enabled = textBox2.Text != "" && textBox3.Text != "";
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }

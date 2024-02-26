@@ -9,3 +9,14 @@ C:\Users\aless\OneDrive\Desktop\BancaForm2\BancaForm2\obj\Debug\BancaForm2.cspro
 C:\Users\aless\OneDrive\Desktop\BancaForm2\BancaForm2\obj\Debug\BancaForm2.csproj.CoreCompileInputs.cache
 C:\Users\aless\OneDrive\Desktop\BancaForm2\BancaForm2\obj\Debug\BancaForm2.exe
 C:\Users\aless\OneDrive\Desktop\BancaForm2\BancaForm2\obj\Debug\BancaForm2.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\bin\Debug\BancaForm2.exe.config
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\bin\Debug\BancaForm2.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\bin\Debug\BancaForm2.pdb
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.Form1.resources
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.Properties.Resources.resources
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.csproj.GenerateResource.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.exe
+C:\Users\aless\OneDrive\Desktop\scuola\Informatica\BancaForm2\BancaForm2\obj\Debug\BancaForm2.pdb
