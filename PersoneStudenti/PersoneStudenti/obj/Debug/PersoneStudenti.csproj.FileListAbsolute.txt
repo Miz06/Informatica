@@ -1,0 +1,11 @@
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\bin\Debug\PersoneStudenti.exe.config
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\bin\Debug\PersoneStudenti.exe
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\bin\Debug\PersoneStudenti.pdb
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.Form1.resources
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.Properties.Resources.resources
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.csproj.GenerateResource.cache
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.exe
+C:\Users\aless\OneDrive\Desktop\PersoneStudenti\PersoneStudenti\obj\Debug\PersoneStudenti.pdb
