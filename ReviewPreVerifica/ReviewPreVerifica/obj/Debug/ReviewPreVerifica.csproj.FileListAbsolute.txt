@@ -1,0 +1,8 @@
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\bin\Debug\ReviewPreVerifica.exe.config
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\bin\Debug\ReviewPreVerifica.exe
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\bin\Debug\ReviewPreVerifica.pdb
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\obj\Debug\ReviewPreVerifica.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\obj\Debug\ReviewPreVerifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\obj\Debug\ReviewPreVerifica.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\obj\Debug\ReviewPreVerifica.exe
+C:\Users\aless\OneDrive\Desktop\ReviewPreVerifica\ReviewPreVerifica\obj\Debug\ReviewPreVerifica.pdb

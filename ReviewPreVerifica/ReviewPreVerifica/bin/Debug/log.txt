@@ -1,0 +1,21 @@
+^^^^^^^^^^^^^^^^^
+22/01/2024 21:51:42
+nome: a - cognome: r - anni: 5 - media: 7
+^^^^^^^^^^^^^^^^^
+22/01/2024 21:57:50
+nome: a - cognome: r - anni: 34 - media: 3
+^^^^^^^^^^^^^^^^^
+22/01/2024 21:58:10
+^^^^^^^^^^^^^^^^^
+22/01/2024 22:00:05
+nome: a - cognome: r - anni: 4 - media: 6
+^^^^^^^^^^^^^^^^^
+22/01/2024 22:02:32
+nome: a - cognome: b - anni: 0 - media: 4
+^^^^^^^^^^^^^^^^^
+22/01/2024 22:03:16
+nome: a - cognome: r - anni: 4 - media: 7
+^^^^^^^^^^^^^^^^^
+22/01/2024 22:03:28
+nome: a - cognome: r - anni: 4 - media: 7
+nome: e - cognome: 5 - anni: 89 - media: 10
